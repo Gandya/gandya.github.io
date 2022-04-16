@@ -44,4 +44,9 @@ table {
 
 a, a:hover {
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+div {
+  -webkit-tap-highlight-color: transparent;
 }
